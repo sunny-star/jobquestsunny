@@ -29,7 +29,7 @@ const Navbar = () => {
         }
     }
     return (
-        <div className='bg-white'>
+        <div className='bg-gradient-to-r from-blue-100 to-indigo-800'>
             <div className='flex items-center justify-between mx-auto max-w-7xl h-16'>
                 <div>
                     <h1 className='text-2xl font-bold'>JOB<span className='text-[#F83002]'>QUEST</span></h1>
