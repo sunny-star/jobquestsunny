@@ -18,7 +18,7 @@ const Home = () => {
     }
   }, []);
   return (
-    <div>
+    <div className='bg-purple-200'>
       <Navbar />
       <HeroSection />
       <CategoryCarousel />
